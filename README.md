@@ -81,5 +81,3 @@ Project Link: [https://github.com/RahulAIML/SmartPay](https://github.com/RahulAI
 - [Create React App](https://create-react-app.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [React Icons](https://react-icons.github.io/react-icons/)
-- [Formik](https://formik.org/)
-- [Yup](https://github.com/jquense/yup)
