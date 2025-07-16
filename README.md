@@ -1,5 +1,3 @@
-<img width="1920" height="1080" alt="Screenshot 2025-07-16 151854" src="https://github.com/user-attachments/assets/3d5de493-bf91-4d1f-b501-4952f6932654" /># SmartPay - Modern Payment Solution
-
 ![SmartPay Logo](https://via.placeholder.com/150)
 
 SmartPay is a modern, responsive payment solution built with React.js that provides a seamless payment experience for users and merchants alike. With a clean and intuitive interface, SmartPay makes online transactions simple, secure, and efficient.
@@ -54,13 +52,10 @@ SmartPay is a modern, responsive payment solution built with React.js that provi
 4. Track your transaction history
 
 ## 📸 Screenshots
-<img width="1920" height="1080" alt="Screenshot 2025-07-16 151854" src="https://github.com/user-attachments/assets/4227e685-a994-4736-984e-4b4e43604972" />
-
-<img width="1920" height="1080" alt="Screenshot 2025-07-16 151854" src="https://github.com/user-attachments/assets/ea1b783a-7366-4308-9ab9-fbcaa42d85dc" />
-
-<img width="1920" height="1080" alt="Screenshot 2025-07-16 151854" src="https://github.com/user-attachments/assets/2b6308d8-e1cc-40c5-b7ba-776cd765ffc7" />
-
-<img width="1920" height="1080" alt="Screenshot 2025-07-16 151854" src="https://github.com/user-attachments/assets/44b8fbcc-bad2-4b0d-9860-41b3a98ebbfd" />
+<img width="1536" height="864" alt="Screenshot 2025-07-16 140530(1)(1)" src="https://github.com/user-attachments/assets/ce2cc3bf-4649-40ad-b2e2-3833cdb9b230" />
+<img width="1536" height="864" alt="Screenshot 2025-07-16 140530(1)(1)" src="https://github.com/user-attachments/assets/fbcbbba8-60aa-481c-9696-e3374686dade" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-16 151854" src="https://github.com/user-attachments/assets/05c8f079-3c8a-4038-807e-fb2c994f22d7" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-16 151854" src="https://github.com/user-attachments/assets/c94f1734-8f09-4f73-bf93-9ac595d4f470" />
 
 
 ## 🤝 Contributing
