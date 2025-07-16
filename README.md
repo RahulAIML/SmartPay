@@ -1,5 +1,3 @@
-![SmartPay Logo](https://via.placeholder.com/150)
-
 SmartPay is a modern, responsive payment solution built with React.js that provides a seamless payment experience for users and merchants alike. With a clean and intuitive interface, SmartPay makes online transactions simple, secure, and efficient.
 
 ## 🚀 Features
@@ -53,7 +51,7 @@ SmartPay is a modern, responsive payment solution built with React.js that provi
 
 ## 📸 Screenshots
 <img width="1536" height="864" alt="Screenshot 2025-07-16 140530(1)(1)" src="https://github.com/user-attachments/assets/ce2cc3bf-4649-40ad-b2e2-3833cdb9b230" />
-<img width="1536" height="864" alt="Screenshot 2025-07-16 140530(1)(1)" src="https://github.com/user-attachments/assets/fbcbbba8-60aa-481c-9696-e3374686dade" />
+<img width="1536" height="864" alt="Screenshot 2025-07-16 151829(1)(1)" src="https://github.com/user-attachments/assets/e0f93de5-e2e2-4d93-8c22-db8249872455" />
 <img width="1920" height="1080" alt="Screenshot 2025-07-16 151854" src="https://github.com/user-attachments/assets/05c8f079-3c8a-4038-807e-fb2c994f22d7" />
 <img width="1920" height="1080" alt="Screenshot 2025-07-16 151854" src="https://github.com/user-attachments/assets/c94f1734-8f09-4f73-bf93-9ac595d4f470" />
 
