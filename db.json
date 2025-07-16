@@ -1,0 +1,124 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "name": "Rahul Sharma",
+      "type": "Received",
+      "amount": 15000,
+      "status": "Completed",
+      "date": "2023-06-01",
+      "category": "Salary",
+      "reference": "SAL-2023-001"
+    },
+    {
+      "id": 2,
+      "name": "Flipkart",
+      "type": "Sent",
+      "amount": 5899,
+      "status": "Completed",
+      "date": "2023-06-02",
+      "category": "Shopping",
+      "reference": "FLP-2023-002"
+    },
+    {
+      "id": 3,
+      "name": "Netflix India",
+      "type": "Sent",
+      "amount": 649,
+      "status": "Completed",
+      "date": "2023-06-02",
+      "category": "Subscription",
+      "reference": "SUB-2023-003"
+    },
+    {
+      "id": 4,
+      "name": "Priya Patel",
+      "type": "Received",
+      "amount": 5000,
+      "status": "Pending",
+      "date": "2023-06-03",
+      "category": "Freelance",
+      "reference": "TRN-2023-006"
+    },
+    {
+      "id": 5,
+      "name": "Spotify India",
+      "type": "Sent",
+      "amount": 119,
+      "status": "Completed",
+      "date": "2023-06-04",
+      "category": "Subscription",
+      "reference": "SUB-2023-005"
+    },
+    {
+      "id": 6,
+      "name": "Ola Cabs",
+      "type": "Sent",
+      "amount": 245,
+      "status": "Completed",
+      "date": "2023-06-05",
+      "category": "Transport",
+      "reference": "INV-2023-006"
+    },
+    {
+      "id": 7,
+      "name": "Café Coffee Day",
+      "type": "Sent",
+      "amount": 275,
+      "status": "Completed",
+      "date": "2023-06-05",
+      "category": "Food & Drinks",
+      "reference": "FNB-2023-007"
+    },
+    {
+      "id": 8,
+      "name": "Amit Kumar",
+      "type": "Received",
+      "amount": 12000,
+      "status": "Failed",
+      "date": "2023-06-06",
+      "category": "Freelance",
+      "reference": "FR-2023-008"
+    },
+    {
+      "id": 9,
+      "name": "Croma",
+      "type": "Sent",
+      "amount": 42999,
+      "status": "Completed",
+      "date": "2023-06-07",
+      "category": "Electronics",
+      "reference": "ELC-2023-009"
+    },
+    {
+      "id": 10,
+      "name": "Neha Gupta",
+      "type": "Received",
+      "amount": 15000,
+      "status": "Completed",
+      "date": "2023-06-08",
+      "category": "Rent",
+      "reference": "RNT-2023-010"
+    },
+    {
+      "id": 11,
+      "name": "Swiggy",
+      "type": "Sent",
+      "amount": 325,
+      "status": "Completed",
+      "date": "2023-06-08",
+      "category": "Food Delivery",
+      "reference": "FNB-2023-011"
+    },
+    {
+      "id": 12,
+      "name": "MakeMyTrip",
+      "type": "Sent",
+      "amount": 12457,
+      "status": "Pending",
+      "date": "2023-06-09",
+      "category": "Travel",
+      "reference": "TRV-2023-012"
+    }
+  ]
+}
